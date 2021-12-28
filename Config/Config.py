@@ -1,6 +1,6 @@
 
 class TestData:
-    CHROME_EXECUTABLE_PATH="C:\\Users\\kalyan\\Downloads\\chromedriver_win32 (1)\\driver\\chromedriver.exe"
+    CHROME_EXECUTABLE_PATH="C:\\Users\\kalyan\\PycharmProjects\\Dr.Garcia_POM\\drivers\\chromedriver.exe"
     FIREFOX_EXECUTABLE_PATH = "C:\\Users\\kalyan\\Downloads\\geckodriver-v0.30.0-win64 (1)\\geckodriver.exe"
 
 

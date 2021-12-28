@@ -1,4 +1,3 @@
-import HomePage as HomePage
 from selenium.webdriver.common.by import By
 import time
 from Config.Config import TestData
@@ -31,7 +30,7 @@ class LoginPage(BasePage):
           self.do_send_keys(self.PASSWORD, password)
           time.sleep(5)
           self.do_click(self.LOGIN_BUTTON)
-          return HomePage(self.driver)
+          """return HomePage(self.driver)"""
 
 
 
